@@ -1,0 +1,11 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{70624C02-4A6C-B247-B4B5-DB805DF67E95}",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"AllDesktop",
+		"Lumin",
+		"WindowsNoEditor"
+	]
+}
